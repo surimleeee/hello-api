@@ -5,11 +5,7 @@ plugins {
 }
 
 group = 'com.lgcns'
-<<<<<<< HEAD
-version = '0.1.1-SNAPSHOT'
-=======
 version = '0.3.1'
->>>>>>> origin/main
 description = 'Demo project for Spring Boot'
 
 java {
