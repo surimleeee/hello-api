@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 
 @RestController
-@@RequestMapping("/hello")
+@RequestMapping("/hello")
 public class HelloCtrl {
     @GetMapping("/add")
     public int add(@RequestParam int a, @RequestParam int b) {
