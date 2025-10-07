@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 
+
 @RestController
 @RequestMapping("/hello")
 public class HelloCtrl {
@@ -34,5 +35,3 @@ public class HelloCtrl {
     }
     
 }
-
-
